@@ -5,6 +5,9 @@ In this project, we design a database for maintenance department of a company. T
 
 # Team Members
 Emre Keskin
+
 Servan Tanaman
+
 Jubaeid Hasan Chowdhury
+
 Aliyu Saifullah Vandana
