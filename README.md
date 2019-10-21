@@ -11,3 +11,6 @@ Servan Tanaman
 Jubaeid Hasan Chowdhury
 
 Aliyu Saifullah Vandana
+
+# Project Reports
+Proposal Report https://github.com/saifvandana/cs353-Database-System/blob/master/Project%20Proposal%20.pdf
